@@ -15,21 +15,16 @@ We are a group of neighbors who are seeking to ensure that the Parmer Lane proje
 
 - To spread awareness of the Parmer Lane project
 - To provide a platform for community input and feedback
-- Ensure that we do the best to accomodate the need of the 
+- Ensure that we do the best to accomodate the need ands wants of all who use and live along the corridor 
 
 
-## Our Team
+## Our neighborhoods
 
-- Robyn Ross
-- Matthew Ludlum
-- (Include others)
+● Gardens of Milwood
+● McNeil Estates
+● Milwood
+● Neighborhood Association of Southwestern Williamson County
+● Northwood
+● Preston Oaks
+● Rattan Creek
 
-## Our Values
-
-- Respect input from all residents along the corridor
-- Transparency in communication with the community
-- Collaboration between neighbors, local government, and developers
-
-
----
-*This page is under construction. More information will be added soon.*
