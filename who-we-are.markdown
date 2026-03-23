@@ -28,3 +28,5 @@ We are a group of neighbors who are seeking to ensure that the Parmer Lane proje
 ● Preston Oaks
 ● Rattan Creek
 
+## Do you live in another neighborhood along Parmer?
+If you are part of another neighborhood association or HOA between MoPac and 620 and want to be involved, please contact us!

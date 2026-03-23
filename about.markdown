@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome to the Parmer Lane Alliance of Neighborhoods (PLAN)! 
 
-We are a group of neighborhoods spanning from Mopac to FM620. Our goal is to inform and collect community feedback on the Parmer Lane project. 
+The Parmer Lane Alliance of Neighborhoods comprises seven neighborhoods along Parmer Lane between MoPac and 620. Our goal is to inform and collect community feedback on the Parmer Lane project. 
 
 The chief use of this website right now is to provide a set of links to the project.
 
@@ -40,6 +40,6 @@ We strongly encourage people to attend the last open house for this phase of the
 
 ## Stay Updated
 
-If you want us to keep you updated on the status of the project, you can [fill out this form](https://forms.gle/zFZRv34U6Va3U4ku8) and we will add you to the mailing list. 
+If you want us to keep you updated on the status of the project, you can [fill out this form](https://forms.gle/zFZRv34U6Va3U4ku8) and we will add you to the PLAN mailing list. Note that CAMPO and TxDOT may have their own mailing lists. We encourage you to sign up for these, too.
 
 We do not expect to send out frequent updates until we know the status and timeline of the project, so don't be surprised if you don't hear anything for a while!
