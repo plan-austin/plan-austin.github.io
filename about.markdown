@@ -21,20 +21,12 @@ You can read more about the project here as well as read presentations from the 
 
 ---
 
-## Upcoming Open House
+## Virtual  Open House
 
-We strongly encourage people to attend the last open house for this phase of the project:
+The in-person open house has closed but you can still review the posterboards and leave comments on the project website here: [Parmer Lane Public Meeting #3](https://www.parmerlanepm3.com/)
 
-**Event Details:**
-- **Date:** March 25
-- **Time:** 4:00 PM - 7:00 PM
-- **Location:** Rattan Creek Community Center  
-  7611 Elkhorn Mountain Trail  
-  Austin, TX 78729
+We'll provide more a summary of the open house once we have gotten a chance to meet. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3438.9856743384944!2d-97.77838482377134!3d30.46158529747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865b2c4e5e5e5e5f%3A0x1234567890abcdef!2s7611%20Elkhorn%20Mountain%20Trail%2C%20Austin%2C%20TX%2078729!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus" width="600" height="450" style="border:0; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-[Event Information & Registration](https://www.campotexas.org/event/parmer-lane-fm-734-corridor-study-open-house-3/)
 
 ---
 
