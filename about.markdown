@@ -27,6 +27,12 @@ The in-person open house has closed but you can still review the posterboards an
 
 We'll provide more a summary of the open house once we have gotten a chance to meet. 
 
+---
+
+## Austin City Council Resolution
+
+We strongly support the [Austin City Council Resolution](https://services.austintexas.gov/edims/document.cfm?id=483574) - the resolution reflects the feedback we have gotten from residents in the corridor. 
+
 
 ---
 
